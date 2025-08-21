@@ -10,7 +10,7 @@
 
 ### 👋 I'm Karthik - Professional Bug Creator & Accidental Problem Solver
 
-*Currently debugging life, one coffee at a time ☕*
+*Currently debugging life, one line of code at a time 💻*
 
 [![Profile Views](https://komarev.com/ghpvc/?username=ckarthik77&color=blueviolet&style=flat-square&label=Profile+Stalkers)](https://github.com/ckarthik77)
 [![GitHub followers](https://img.shields.io/github/followers/ckarthik77?style=flat-square&color=red&logo=github)](https://github.com/ckarthik77?tab=followers)
@@ -27,13 +27,13 @@ class Developer:
         self.name = "Karthik"
         self.username = "ckarthik77"
         self.role = "Code Whisperer & Digital Architect"
-        self.language_fluency = ["Python", "JavaScript", "Java", "Sarcasm", "Caffeine"]
+        self.language_fluency = ["Python", "JavaScript", "Java", "Sarcasm", "Logic"]
         self.current_status = "Making computers do impossible things"
-        self.superpower = "Turning coffee into features"
+        self.superpower = "Turning ideas into reality"
         self.location = "Vijayawada, Andhra Pradesh, IN"
         
     def get_life_status(self):
-        if self.coffee_level > 0:
+        if self.energy_level > 0:
             return "🔥 Functioning genius"
         else:
             return "💀 Error 404: Developer not found"
@@ -73,7 +73,7 @@ class Developer:
 ### ⚡ My Superpowers:
 | **Skill** | **Power Level** | **Side Effect** |
 |-----------|----------------|-----------------|
-| ☕ Coffee → Code Conversion | ████████████ 100% | Occasional time travel |
+| 🧠 Pure Logic Processing | ████████████ 100% | Occasional existential thoughts |
 | 🔍 Google-Fu Mastery | ████████████ 100% | Can find anything except motivation on Monday |
 | 🐛 Bug Whispering | ██████████░░ 85% | Bugs now consider me family |
 | 🎭 Imposter Syndrome Immunity | ████░░░░░░░░ 30% | Still working on this one... |
@@ -98,7 +98,7 @@ class Developer:
 ┌─────────────────────────────────────────┐
 │ ⭐ GitHub Stars Collected: Loading...    │
 │ 🐛 Bugs Created & Fixed: 9999+          │
-│ ☕ Coffee Cups Consumed: ∞               │
+│ 🧠 Pure Logic Solutions: ∞              │
 │ 😴 Sleep Schedule: Successfully Destroyed│
 │ 🚀 Features Shipped: More than Amazon   │
 │ 🤔 "It works on my machine": Daily      │
@@ -137,13 +137,13 @@ Productivity  │
               │       ╱|╲
               │      ╱ | ╲
               │     ╱  |  ╲ 
-              │ ☕ ╱   |   ╲ ☕
+              │ 🍕 ╱   |   ╲ 🎵
               │  ╱    |    ╲╱╲
               └───────────────────── Time
               6am    12pm    6pm   12am
             
-Legend: ☕ = Coffee break | 🚀 = Productivity explosion
-Note: Chart accuracy may vary based on caffeine levels
+Legend: 🍕 = Snack break | 🎵 = Music boost | 🚀 = Productivity explosion
+Note: Chart accuracy may vary based on inspiration levels
 ```
 
 ---
@@ -164,18 +164,18 @@ Note: Chart accuracy may vary based on caffeine levels
 
 ```mermaid
 graph TD
-    A[Wake up] --> B{Coffee available?}
+    A[Wake up] --> B{Feeling motivated?}
     B -->|Yes| C[Transform into coding machine]
-    B -->|No| D[Remain in zombie state]
+    B -->|No| D[Listen to epic music]
     C --> E[Open GitHub]
     D --> E
     E --> F[Check yesterday's code]
     F --> G{Still works?}
     G -->|Yes| H[Suspicious... investigate further]
     G -->|No| I[Perfect! Time to fix & improve]
-    H --> J[More coffee needed]
+    H --> J[Brain fuel needed]
     I --> J
-    J --> K[Code until eyes bleed]
+    J --> K[Code until breakthrough]
     K --> L[Push to GitHub]
     L --> M[Feel accomplished]
     M --> A
@@ -193,7 +193,7 @@ graph TD
 ```
 
 **Current Buffs:** 
-- ✅ ∞ Caffeine tolerance
+- ✅ ∞ Mental energy reserves
 - ✅ Supernatural debugging vision
 - ✅ Code-whispering abilities
 - ✅ Time-bending productivity
